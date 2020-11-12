@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "spring.application.alicloud",
+      "type": "com.zl.utils.thirdpartyutils.component.SmsComponent",
+      "sourceType": "com.zl.utils.thirdpartyutils.component.SmsComponent"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
